@@ -11,5 +11,10 @@ Today I Learned
 * python의 경우 ipynb, python이 아닌 다른 언어라면 md파일 권장
 * 파일명은 영어로
 
+# Index
+
+* <a href="https://github.com/ForwardYH/TIL/tree/master/wikibooks%20-%20python-machine-learning">wikibooks-python-machine-learning</a>
+  
+
 # Reference
 <a href="https://github.com/zzsza/TIL">성윤님 TIL</a>
