@@ -1,6 +1,14 @@
 # TIL
-Today I Learned(오늘 나는 무엇을 배웠는가?)
+Today I Learned
 
 * 오늘 하루 어떤 내용을 공부했는지 기록남기기
 
 * 시작날짜 : 2017.08.24
+
+# 작성규칙
+* 언어나 기술명으로 폴더 만들기
+* python의 경우 ipynb, python이 아닌 다른 언어라면 md파일 권장
+* 파일명은 영어로
+
+# Reference
+<a href="https://github.com/zzsza/TIL">성윤님 TIL</a>
