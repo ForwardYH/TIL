@@ -13,8 +13,9 @@ Today I Learned
 
 # Index
 
-* <a href="https://github.com/ForwardYH/TIL/tree/master/wikibooks%20-%20python-machine-learning">wikibooks-python-machine-learning</a>
-  
+* [wikibooks-python-machine-learning](https://github.com/ForwardYH/TIL/tree/master/wikibooks%20-%20python-machine-learning)
+* [python](https://github.com/ForwardYH/TIL/tree/master/python)
+* [markdown](https://github.com/ForwardYH/TIL/tree/master/markdown)
 
 # Reference
-<a href="https://github.com/zzsza/TIL">성윤님 TIL</a>
+[성윤님 TIL](https://github.com/zzsza/TIL)
