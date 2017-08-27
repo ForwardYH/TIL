@@ -17,8 +17,8 @@
   ```conda create -n Django python=3.5```
 - pip가 최신버전인지 확인
 
-  ```conda update pip
-or pip install --upgrade pip```
+  ```conda update pip or pip install --upgrade pip```
+  
 - 그런 다음 Django 설치
 
   ```pip install django~=1.10.0```
