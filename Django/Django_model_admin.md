@@ -71,11 +71,11 @@ admin.site.register(Post)
 
 * 모든 권한을 가지는 슈퍼 사용자 생성 : createsuperuser
 
-<img src="./img/django_createsuperuser.png" width='600px'>
+<img src="./img/django_createsuperuser.jpg" width='600px'>
 
 * 처음으로 blog에 글 남기기
 
-<img src="./img/django_post.png" width='600px'>
+<img src="./img/django_post.jpg" width='600px'>
 
 * 그리고 나서 blog에 글을 남겨보았다. 에러가 떴다...
 
@@ -93,7 +93,7 @@ admin.site.register(Post)
 
 - 그리고 기존에 했던 과정들을 다시 거치고 다시 post에 한글로 된 글을 남겨보았다.
 
-<img src="./img/post_2.png" width='600px'>
+<img src="./img/post_2.jpg" width='600px'>
 
 - 결과는 성공적! 에러를 처리하는데 시간이 오래 걸렸지만 그래도 계속 구글링을 하면서 성공적으로 에러를 처리해서 뿌듯하다.
 
