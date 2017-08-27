@@ -16,6 +16,8 @@ Today I Learned
 * [wikibooks-python-machine-learning](https://github.com/ForwardYH/TIL/tree/master/wikibooks%20-%20python-machine-learning)
 * [python](https://github.com/ForwardYH/TIL/tree/master/python)
 * [markdown](https://github.com/ForwardYH/TIL/tree/master/markdown)
+* [MySQL](https://github.com/ForwardYH/TIL/tree/master/MySQL)
+* [Django](https://github.com/ForwardYH/TIL/tree/master/Django)
 
 # Reference
 [성윤님 TIL](https://github.com/zzsza/TIL)
