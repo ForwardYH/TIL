@@ -50,8 +50,7 @@
     - 에플리케이션을 배포할 때 PythonAnywhere의 호스트 이름과 일치하지 않으므로
       다음 설정을 아래와 같이 변경해줘야 함.
 
-      ```ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
-      ```
+      ```ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']```
 
     - 데이터베이스 설정 : Mysql로 설정
 
