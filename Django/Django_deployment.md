@@ -1,8 +1,7 @@
 # Django Deployment(배포하기)
 
 * github에 저장소 만들기
-
-  * 우리가 Local 환경에서 작업한 코드들을 github에 저장하기
+  * 우리가 Local 환경에서 작업한 코드들을 github에 저장하기
 
 
 * PythonAnywhere에 블로그 설정하기
