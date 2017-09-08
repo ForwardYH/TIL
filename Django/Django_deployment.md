@@ -45,7 +45,9 @@
     * ```(myvenv) $ python manage.py createsuperuser```
 
 * web app으로 블로그 배포하기
+
   <img src="./img/virtualenv.JPG" width='600px'>
+  
   [이미지 출처] : 'https://tutorial.djangogirls.org/ko/deploy/'
 
   * PythonAnywhere 대시보드로 와서 <strong>Web</strong>을 클릭하고 <strong>Add a new web app</strong>를 선택.
