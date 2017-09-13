@@ -82,10 +82,10 @@
 * Delete에 해당하는 Delete
 
   * 데이터 제거
-  ```
-  delete from [table] where [condition];
-  # 조건에 해당하는 row 삭제
-  # 만약 조건을 달지않고 그냥 delete from table;을 하면 전체 테이블이 삭제되므로 delete를 할 때는 이점을 유의해야 함.
-  delete from students where name = "홍길동";
-  # students 테이블에서 홍길동을 가진 학생 row 정보 삭제
-  ```
+    ```
+    delete from [table] where [condition];
+    # 조건에 해당하는 row 삭제
+    # 만약 조건을 달지않고 그냥 delete from table;을 하면 전체 테이블이 삭제되므로 delete를 할 때는 이점을 유의해야 함.
+    delete from students where name = "홍길동";
+    # students 테이블에서 홍길동을 가진 학생 row 정보 삭제
+    ```
