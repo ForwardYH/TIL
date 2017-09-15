@@ -27,20 +27,20 @@
   ```
 
 
-  * group by
-    * 특정 필드를 기준으로 grouping
+* group by
+  * 특정 필드를 기준으로 grouping
 
-  ```
-  select *
-      from students
-      group by MajorCode;
+```
+select *
+    from students
+    group by MajorCode;
 
-  # MajorCode 필드를 기준으로 grouping 하여 students 테이블에서 데이터 읽어오기
+# MajorCode 필드를 기준으로 grouping 하여 students 테이블에서 데이터 읽어오기
 
-  select *
-      from students
-      group by MajorCode
-      having Age > 25;
+select *
+    from students
+    group by MajorCode
+    having Age > 25;
 
-  # MajorCode 필드를 기준으로 grouping 하여 Age가 25 초과인 students 테이블의 데이터 읽어오기    
-  ```
+# MajorCode 필드를 기준으로 grouping 하여 Age가 25 초과인 students 테이블의 데이터 읽어오기    
+```
