@@ -10,8 +10,8 @@
   select *
       from students
       order by Age DESC;
+      
   # students 테이블의 모든 정보를 Age 필드 기준으로 내림차순으로 정렬하기
-  
   ```
 
 
