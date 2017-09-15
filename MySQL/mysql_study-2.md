@@ -23,6 +23,7 @@
   ```
   select sum(Age)
       from students;
+      
   # students 테이블에서 Age 필드 summation 하기
   ```
 
