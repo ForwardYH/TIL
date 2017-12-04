@@ -23,7 +23,7 @@
 
   - 설정 파일 예시
 
-  <img src = "./img/mysite_default_cnf.jpg" width=1000>
+  <img src = "./Django Tutorial/img/mysite_default_cnf.jpg" width=1000>
 
   - `<Directory project-path> ~ </Directory>` : 아파치가 wsgi.py 파일을 액세스할 수 있도록 mysite 디렉토리 및 wsgi.py 파일에 대한 접근 권한을 설정
 
