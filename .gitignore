@@ -1,0 +1,5 @@
+.idea
+*.txt
+*.log
+*.exe
+.ipynb_checkpoints
